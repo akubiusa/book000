@@ -22,7 +22,7 @@
 |  | 🍌 Banana | `/` |  (%) | 116 GB (SSD) | <!-- calculate-storage#banana#/ -->
 |  | 🍌 Banana | `/mnt/hdd` |  (%) | 916 GB (HDDD) | <!-- calculate-storage#banana#/mnt/hdd -->
 |  | ☄ Comet | `/` |  (%) | 98.25 GB (SSD) | <!-- calculate-storage#comet4#/ -->
-|  | 🌉 frp-server | `/` |  (%) | 29.36 GB (SSD) | <!-- calculate-storage#frp-server#/ -->
+|  | 🌟 Nova | `/` |  (%) | 29.36 GB (SSD) | <!-- calculate-storage#nova#/ -->
 |  | ⏺️ RecPi | `/` |  (%) | 28.14 GB (SD) | <!-- calculate-storage#recpi#/ -->
 |  | ⏺️ RecPi | `/mnt/hdd` |  (%) | 3.58 TB (HDD) | <!-- calculate-storage#recpi#/mnt/hdd -->
 |  | 👒 ZakuroHat | `/` |  (%) | 125.43 GB (?) | <!-- calculate-storage#zh-2#/ -->
