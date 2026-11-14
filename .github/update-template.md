@@ -59,7 +59,7 @@ Claude Code で `/check-container-status` を実行。
 |  | 🍍 Pine | Ubuntu | apt |  |  |  | <!-- update-softwares#pine#apt -->
 |  | 🍌 Banana | Ubuntu | apt |  |  |  | <!-- update-softwares#banana#apt -->
 |  | ☄ Comet | Ubuntu | apt |  |  |  | <!-- update-softwares#comet4#apt -->
-|  | 🌉 frp-server | Debian | apt |  |  |  | <!-- update-softwares#frp-server#apt -->
+|  | 🌟 Nova | Debian | apt |  |  |  | <!-- update-softwares#nova#apt -->
 |  | ⏺️ RecPi | Ubuntu | apt |  |  |  | <!-- update-softwares#recpi#apt -->
 |  | 👒 ZakuroHat | Ubuntu | apt |  |  |  | <!-- update-softwares#zh-2#apt -->
 
